@@ -50,3 +50,9 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+#Users
+./ignore
+
+#For Mac Users
+.DS_Store
