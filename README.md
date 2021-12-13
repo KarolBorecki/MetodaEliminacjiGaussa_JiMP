@@ -1,0 +1,1 @@
+# MetodaEliminacjiGaussa_JiMP
